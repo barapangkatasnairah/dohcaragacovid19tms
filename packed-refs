@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+819ea68becd1f949495e27a8c4023a703d6c51ba refs/remotes/origin/joe_branch
+17d3d412cee5ac52a3a374b29dcfb88d4c578e24 refs/remotes/origin/master
+b2805f9d83e07691de60191a5bca885c276f546b refs/remotes/origin/wan_branch
